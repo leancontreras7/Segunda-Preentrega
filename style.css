@@ -135,6 +135,11 @@ h3{
 
 /* pagina de fotos*/ 
 
+h2{
+
+    color: aliceblue;
+}
+
 p{
 
     color: aliceblue;
@@ -329,4 +334,3 @@ h3{
         
     }
 
-}
